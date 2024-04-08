@@ -1,0 +1,67 @@
+HTML:
+
+em = Torna o texto italico.
+strong = Torna o texto negrito.
+small = Torna o texto pequeno.
+del = Risca o texto.
+mark = Torna o texto marcado.
+sup = Torna o texto sobrescrito.
+sub = Torna o texto subescrito.
+h1-h6 = Cria título na página.
+p = Cria um parágrafo.
+a href='' = Cria um link.
+img src='' = Cria uma imagem.
+button = Cria um botão.
+br = Quebra uma linha.
+ul = Lista não ordenada.
+ol = Lista ordenada.
+li = Cria a lista.
+table = Cria uma tabela.
+thead = Cria o cabeçalho da tabela.
+tbody = Cria o corpo da tabela.
+tr = Cria linha da tabela.
+td = Cria dados dentro da linha da tabela.
+form = Cria um formulário
+Input = Cria um elemento no formulário.
+required = Requer que o formulário seja escrito. <min-maxlength>
+pattern = Cria padrão para validar os dados inseridos no input.
+accept =  Especifica os tipos de arquivos que o usuário pode selecionar para upload.
+enctype = Especifica como os dados do formulário devem ser codificados antes de serem enviados.
+step = define o intervalo entre valores de elementos de entrada, como números, datas ou horas.
+select = Cria uma caixa de seleção no formulário.
+option = Cria uma opção dentro da caixa de seleção.
+button = Cria um botão dentro do formulário.
+label = Texto curto para um campo de input.
+fieldset = Agrupa os elementos e cria uma caixa ao redor deles.
+legend =  Fornece um rótulo descritivo para o grupo de elementos.
+
+CSS:
+
+border: <tamanho> <tipo> <cor>; = cria uma borda.
+border-radius: <tamanho> = Arredonda o raio da borda.
+padding = Espaçamento interno.
+margin = Espaçamento externo.
+content-box = Tamanho calculado apenas pelo conteúdo, excluindo preenchimentos e bordas. <box-size>
+border-box = Tamanho calculado incluindo conteúdo, preenchimentos e bordas.
+Hover: Quando o cursor do mouse está sobre o elemento.
+Active: Quando o elemento está sendo clicado.
+Focus: Quando o elemento tem foco, como campos de entrada de texto selecionados.
+Visited: Quando um link foi visitado.
+Focus Within: Quando qualquer elemento filho do elemento pai tem foco.
+Checked: Em elementos de entrada do tipo checkbox ou radio que estão marcados.
+text-decoration = Decoração no texto em forma de linhas.
+font-size = Tamanho da fonte.
+font-weight = Peso da fonte.
+font-family = Define a familia da fonte.
+text-align = Alinhamento do texto.
+text-transform = Tranforma o texto.
+letter-spacing = Espaçamento entre letras.
+word-spacing  = Espaçamento entre palavras.
+line-height = Altura da linha.
+text-shadow: <x> <y> <esfumaçado> <cor> = Sombra no texto.
+display =  Controla como um elemento HTML é exibido no layout da página.
+outline = Linha de contorno de um elemento.
+resize =  Controla o redimensionamento de elementos, como <textarea> e <iframe>.
+transform = Modifica a aparência visual de um elemento de várias maneiras.  scale / rotate / skew / translate
+overflow = Comportamento de um elemento quando o conteúdo dentro dele excede suas dimensões especificadas.
+scroll-behavior = Comportamento do scroll ao ser direcionado a uma seção.
